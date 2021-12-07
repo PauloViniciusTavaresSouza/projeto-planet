@@ -1,0 +1,11 @@
+.fundoPlanets { 
+    background-image: url("../../../assets/img/destination/background-destination-desktop.jpg");
+}
+
+.ativo { 
+    display: block;
+}
+
+.Inativo { 
+    display: none;
+}
